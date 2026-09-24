@@ -64,3 +64,29 @@ export function Loginpage958() {
     </div>
   );
 }
+
+
+export function Loginpage288() {
+  return (
+    <div>
+      <span data-field="f0">{/* item 15 */}</span>
+      <span data-field="f1">{/* item 13 */}</span>
+      <span data-field="f2">{/* item 19 */}</span>
+      <span data-field="f3">{/* item 45 */}</span>
+      <span data-field="f4">{/* item 24 */}</span>
+      <span data-field="f5">{/* item 70 */}</span>
+      <span data-field="f6">{/* item 31 */}</span>
+      <span data-field="f7">{/* item 15 */}</span>
+      <span data-field="f8">{/* item 55 */}</span>
+      <span data-field="f9">{/* item 29 */}</span>
+      <span data-field="f10">{/* item 42 */}</span>
+      <span data-field="f11">{/* item 97 */}</span>
+      <span data-field="f12">{/* item 57 */}</span>
+      <span data-field="f13">{/* item 88 */}</span>
+      <span data-field="f14">{/* item 49 */}</span>
+      <span data-field="f15">{/* item 84 */}</span>
+      <span data-field="f16">{/* item 17 */}</span>
+      <span data-field="f17">{/* item 10 */}</span>
+    </div>
+  );
+}
