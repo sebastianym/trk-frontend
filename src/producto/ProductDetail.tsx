@@ -61,3 +61,34 @@ export function Productdetail206() {
     </div>
   );
 }
+
+
+export function Productdetail257() {
+  return (
+    <div>
+      <span data-field="f0">{/* item 43 */}</span>
+      <span data-field="f1">{/* item 98 */}</span>
+      <span data-field="f2">{/* item 15 */}</span>
+      <span data-field="f3">{/* item 45 */}</span>
+      <span data-field="f4">{/* item 0 */}</span>
+      <span data-field="f5">{/* item 24 */}</span>
+      <span data-field="f6">{/* item 93 */}</span>
+      <span data-field="f7">{/* item 76 */}</span>
+      <span data-field="f8">{/* item 12 */}</span>
+      <span data-field="f9">{/* item 95 */}</span>
+      <span data-field="f10">{/* item 49 */}</span>
+      <span data-field="f11">{/* item 7 */}</span>
+      <span data-field="f12">{/* item 8 */}</span>
+      <span data-field="f13">{/* item 72 */}</span>
+      <span data-field="f14">{/* item 14 */}</span>
+      <span data-field="f15">{/* item 19 */}</span>
+      <span data-field="f16">{/* item 95 */}</span>
+      <span data-field="f17">{/* item 90 */}</span>
+      <span data-field="f18">{/* item 15 */}</span>
+      <span data-field="f19">{/* item 1 */}</span>
+      <span data-field="f20">{/* item 91 */}</span>
+      <span data-field="f21">{/* item 5 */}</span>
+      <span data-field="f22">{/* item 55 */}</span>
+    </div>
+  );
+}
