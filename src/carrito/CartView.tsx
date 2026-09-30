@@ -37,3 +37,29 @@ export function Cartview214() {
     </div>
   );
 }
+
+
+export function Cartview405() {
+  return (
+    <div>
+      <span data-field="f0">{/* item 47 */}</span>
+      <span data-field="f1">{/* item 77 */}</span>
+      <span data-field="f2">{/* item 67 */}</span>
+      <span data-field="f3">{/* item 43 */}</span>
+      <span data-field="f4">{/* item 41 */}</span>
+      <span data-field="f5">{/* item 21 */}</span>
+      <span data-field="f6">{/* item 69 */}</span>
+      <span data-field="f7">{/* item 65 */}</span>
+      <span data-field="f8">{/* item 75 */}</span>
+      <span data-field="f9">{/* item 69 */}</span>
+      <span data-field="f10">{/* item 36 */}</span>
+      <span data-field="f11">{/* item 86 */}</span>
+      <span data-field="f12">{/* item 99 */}</span>
+      <span data-field="f13">{/* item 61 */}</span>
+      <span data-field="f14">{/* item 96 */}</span>
+      <span data-field="f15">{/* item 25 */}</span>
+      <span data-field="f16">{/* item 2 */}</span>
+      <span data-field="f17">{/* item 21 */}</span>
+    </div>
+  );
+}
