@@ -1,0 +1,17 @@
+
+
+export function Global900() {
+  return (
+    <div>
+      <span data-field="f0">{/* item 52 */}</span>
+      <span data-field="f1">{/* item 16 */}</span>
+      <span data-field="f2">{/* item 55 */}</span>
+      <span data-field="f3">{/* item 88 */}</span>
+      <span data-field="f4">{/* item 77 */}</span>
+      <span data-field="f5">{/* item 26 */}</span>
+      <span data-field="f6">{/* item 93 */}</span>
+      <span data-field="f7">{/* item 88 */}</span>
+      <span data-field="f8">{/* item 18 */}</span>
+    </div>
+  );
+}
